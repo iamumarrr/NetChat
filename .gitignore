@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.db
+database/netchat.db
+
+# Security / Secrets
+*.key
+*.crt
+*.pem
+*.p12
+
+# Environment / Virtualenv
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tests/Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+
+server.key
+server.crt
